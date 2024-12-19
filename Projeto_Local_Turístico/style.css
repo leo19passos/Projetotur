@@ -1,0 +1,93 @@
+* {
+    margin: 0%;
+    padding: 0%;  
+
+}
+body {
+    background-color: #1B1B1B;
+    
+}
+main {
+    margin: 48px;   
+}
+#page {
+    box-sizing: border-box;
+    width: 1250px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    margin: 48px auto 28px;
+}
+
+#about {
+    margin-top: 104px;
+    line-height: normal;
+}
+
+
+#about p {
+    margin-bottom: 48px;
+}
+
+
+:root {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+header {    
+    color: #E1624F;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform:uppercase;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 4px;
+}
+ol {
+    margin-left: 30px;
+}
+#História {
+    color: #0C51A7;
+    font-weight: bold;
+    margin-bottom: 48px;
+}
+#bom { 
+    font-weight: bold;
+}
+#bom li {
+    color: #591B98;
+}
+#bom li + li {
+    color: #E5245E;
+}
+
+#bom li + li + li {
+    color: #E95E10;
+    margin-bottom: 80px;
+}
+#bom p {
+    font-weight: lighter;
+    text-align:center;
+   
+}
+img {
+    border-radius: 28px;
+}
+
+h4 {
+    font-weight: lighter;
+    text-align:center;
+    font-size: 16px;
+    font-style: italic;
+    margin-top: 28px;
+    color: #333333;
+}
+footer {
+    text-align: center;
+    color:#F0E8C2;
+    text-transform: lowercase;
+}
